@@ -11,7 +11,7 @@ namespace HPlusSport.Security.Web.Controllers;
 * Class Name: 	HomeController.cs
 * Description: 	This controller class manages the home page of this web application.
 *               It return the home view or an error view.
-* Time Task B):	2 hours. 
+* Time Task B):	4h30. 
 */
 
 public class HomeController : Controller
